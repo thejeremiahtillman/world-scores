@@ -1,0 +1,225 @@
+{
+  "id": "604614",
+  "uid": "s:300~l:8007~e:604614",
+  "date": "2026-09-25T18:45Z",
+  "name": "Northampton Saints vs Newcastle Falcons",
+  "shortName": "NOR VS NEW",
+  "season": {
+    "year": 2027,
+    "type": 1,
+    "slug": "202526-gallagher-premiership"
+  },
+  "competitions": [
+    {
+      "id": "604614",
+      "uid": "s:300~l:8007~e:604614~c:604614",
+      "date": "2026-09-25T18:45Z",
+      "attendance": 0,
+      "timeValid": true,
+      "neutralSite": false,
+      "conferenceCompetition": false,
+      "playByPlayAvailable": false,
+      "recent": false,
+      "venue": {
+        "id": "26070",
+        "fullName": "cinch Stadium at Franklin's Gardens",
+        "address": {
+          "city": "Northampton",
+          "state": "England"
+        },
+        "indoor": false
+      },
+      "competitors": [
+        {
+          "id": "25907",
+          "uid": "s:300~l:8007~t:25907",
+          "type": "team",
+          "order": 0,
+          "homeAway": "home",
+          "team": {
+            "id": "25907",
+            "uid": "s:300~t:25907",
+            "name": "Northampton Saints",
+            "abbreviation": "NOR",
+            "displayName": "Northampton Saints",
+            "shortDisplayName": "Northampton Saints",
+            "color": "006633",
+            "isActive": true,
+            "venue": {
+              "id": "26070"
+            },
+            "links": [
+              {
+                "rel": [
+                  "clubhouse",
+                  "desktop",
+                  "team"
+                ],
+                "href": "https://www.espn.com/rugby/team/_/id/25907/northampton-saints",
+                "text": "Clubhouse",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "logo": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/25907.png"
+          },
+          "score": "0",
+          "linescores": [
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 1
+            },
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 2
+            },
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 20
+            },
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 60
+            }
+          ],
+          "statistics": [],
+          "form": "WWLWW",
+          "records": [
+            {
+              "name": "overall",
+              "abbreviation": "Total",
+              "type": "total",
+              "summary": "WWLWW"
+            }
+          ]
+        },
+        {
+          "id": "25906",
+          "uid": "s:300~l:8007~t:25906",
+          "type": "team",
+          "order": 1,
+          "homeAway": "away",
+          "team": {
+            "id": "25906",
+            "uid": "s:300~t:25906",
+            "name": "Newcastle Falcons",
+            "abbreviation": "NEW",
+            "displayName": "Newcastle Falcons",
+            "shortDisplayName": "Newcastle Falcons",
+            "color": "000000",
+            "isActive": true,
+            "venue": {
+              "id": "26056"
+            },
+            "links": [
+              {
+                "rel": [
+                  "clubhouse",
+                  "desktop",
+                  "team"
+                ],
+                "href": "https://www.espn.com/rugby/team/_/id/25906/newcastle-falcons",
+                "text": "Clubhouse",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "logo": "https://a.espncdn.com/i/teamlogos/rugby/teams/500/25906.png"
+          },
+          "score": "0",
+          "linescores": [
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 1
+            },
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 2
+            },
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 20
+            },
+            {
+              "value": 0.0,
+              "displayValue": "0",
+              "period": 60
+            }
+          ],
+          "statistics": [],
+          "form": "LWLLL",
+          "records": [
+            {
+              "name": "overall",
+              "abbreviation": "Total",
+              "type": "total",
+              "summary": "LWLLL"
+            }
+          ]
+        }
+      ],
+      "notes": [],
+      "status": {
+        "clock": 0.0,
+        "displayClock": "1'",
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Fri, September 25th at 2:45 PM EDT",
+          "shortDetail": "9/25 - 2:45 PM EDT"
+        }
+      },
+      "broadcasts": [],
+      "format": {
+        "regulation": {
+          "periods": 2
+        }
+      },
+      "startDate": "2026-09-25T18:45Z",
+      "broadcast": "",
+      "geoBroadcasts": [],
+      "details": [],
+      "highlights": []
+    }
+  ],
+  "links": [
+    {
+      "language": "en-US",
+      "rel": [
+        "summary",
+        "desktop",
+        "event"
+      ],
+      "href": "https://www.espn.com/rugby/match/_/gameId/604614/league/267979",
+      "text": "Summary",
+      "shortText": "Summary",
+      "isExternal": false,
+      "isPremium": false
+    }
+  ],
+  "status": {
+    "clock": 0.0,
+    "displayClock": "1'",
+    "period": 0,
+    "type": {
+      "id": "1",
+      "name": "STATUS_SCHEDULED",
+      "state": "pre",
+      "completed": false,
+      "description": "Scheduled",
+      "detail": "Fri, September 25th at 2:45 PM EDT",
+      "shortDetail": "9/25 - 2:45 PM EDT"
+    }
+  }
+}

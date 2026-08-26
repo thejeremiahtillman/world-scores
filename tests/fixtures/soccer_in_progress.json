@@ -1,0 +1,49 @@
+{
+  "_fixture_note": "Hand-constructed, NOT captured from a live API response — no eng.1/esp.1/ita.1/ger.1/uefa.champions match happened to be in the 'in' (live) state while this repo was built. Field shapes and value formats match the real 'pre'/'post' fixtures captured from the live API in this same directory (soccer_pre.json, soccer_post.json) — same status.type schema, same competitor/team shape — just the 'in' progress state, constructed to exercise that code path.",
+  "id": "999999999",
+  "date": "2026-08-26T15:00Z",
+  "name": "Liverpool at Chelsea",
+  "competitions": [
+    {
+      "status": {
+        "clock": 2760.0,
+        "displayClock": "46'",
+        "type": {
+          "id": "2",
+          "name": "STATUS_IN_PROGRESS",
+          "state": "in",
+          "completed": false,
+          "description": "In Progress",
+          "detail": "46'",
+          "shortDetail": "46'"
+        }
+      },
+      "competitors": [
+        {
+          "id": "363",
+          "homeAway": "home",
+          "winner": false,
+          "score": "1",
+          "team": {
+            "id": "363",
+            "displayName": "Chelsea",
+            "shortDisplayName": "Chelsea",
+            "abbreviation": "CHE"
+          }
+        },
+        {
+          "id": "364",
+          "homeAway": "away",
+          "winner": false,
+          "score": "2",
+          "team": {
+            "id": "364",
+            "displayName": "Liverpool",
+            "shortDisplayName": "Liverpool",
+            "abbreviation": "LIV"
+          }
+        }
+      ]
+    }
+  ]
+}

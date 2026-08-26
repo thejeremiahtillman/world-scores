@@ -1,0 +1,342 @@
+{
+  "id": "65811",
+  "uid": "s:200~e:65811",
+  "date": "1986-04-07T04:00Z",
+  "endDate": "1986-04-08T23:59Z",
+  "name": "New Zealand v Pakistan",
+  "shortName": "NZ v PAK",
+  "description": "3rd Match, John Player Triangular Tournament at Colombo, Apr 7 1986",
+  "season": {
+    "year": 1986,
+    "type": 8535
+  },
+  "competitions": [
+    {
+      "id": "65811",
+      "uid": "s:200~e:65811~c:65811",
+      "description": "3rd Match",
+      "shortDescription": "3rd Match,  at Colombo",
+      "date": "1986-04-07T04:00Z",
+      "endDate": "1986-04-08T23:59Z",
+      "timeValid": false,
+      "neutralSite": true,
+      "attendance": 0,
+      "conferenceCompetition": false,
+      "playByPlayAvailable": false,
+      "fastcastAvailable": false,
+      "recent": false,
+      "class": {
+        "internationalClassId": "2",
+        "generalClassId": "5",
+        "generalClassCard": "ODI",
+        "name": "One-Day Internationals",
+        "eventType": "ODI"
+      },
+      "venue": {
+        "id": "59308",
+        "fullName": "Sinhalese Sports Club Ground, Colombo",
+        "address": {
+          "city": "Colombo",
+          "state": "",
+          "country": "Sri Lanka",
+          "summary": ""
+        },
+        "capacity": 10000,
+        "indoor": false
+      },
+      "competitors": [
+        {
+          "id": "5",
+          "uid": "s:200~e:65811~c:65811~t:5",
+          "type": "team",
+          "order": 1,
+          "homeAway": "home",
+          "winner": "false",
+          "score": "214/8 (42/42 ov)",
+          "team": {
+            "id": "5",
+            "uid": "s:200~t:5",
+            "location": "New Zealand",
+            "name": "New Zealand",
+            "abbreviation": "NZ",
+            "displayName": "New Zealand",
+            "shortDisplayName": "NZ",
+            "isActive": true,
+            "countryCode": "NZ",
+            "color": "#b7c0c8",
+            "links": [
+              {
+                "rel": [
+                  "clubhouse",
+                  "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/team/_/id/5/new-zealand",
+                "text": "Clubhouse",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/5.png"
+          },
+          "linescores": [
+            {
+              "period": 1,
+              "value": 1,
+              "displayValue": 1,
+              "wickets": 8,
+              "runs": 214,
+              "overs": 42.0,
+              "isBatting": true,
+              "description": "complete",
+              "isCurrent": 0
+            },
+            {
+              "period": 2,
+              "value": 2,
+              "displayValue": 2,
+              "wickets": 0,
+              "runs": 0,
+              "overs": 40.4,
+              "isBatting": false,
+              "description": "target reached",
+              "isCurrent": 1
+            }
+          ],
+          "leaders": {
+            "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/8535/events/65811/competitions/65811/competitors/5/leaders"
+          },
+          "statistics": [],
+          "records": [
+            {
+              "name": "Total",
+              "abbreviation": "Total",
+              "type": "total",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "uid": "s:200~e:65811~c:65811~t:7",
+          "type": "team",
+          "order": 2,
+          "homeAway": "away",
+          "winner": "true",
+          "score": "217/6 (40.4/42 ov, target 215)",
+          "team": {
+            "id": "7",
+            "uid": "s:200~t:7",
+            "location": "Pakistan",
+            "name": "Pakistan",
+            "abbreviation": "PAK",
+            "displayName": "Pakistan",
+            "shortDisplayName": "PAK",
+            "isActive": true,
+            "countryCode": "PK",
+            "color": "#07df52",
+            "links": [
+              {
+                "rel": [
+                  "clubhouse",
+                  "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/team/_/id/7/pakistan",
+                "text": "Clubhouse",
+                "isExternal": false,
+                "isPremium": false
+              }
+            ],
+            "logo": "https://a.espncdn.com/i/teamlogos/cricket/500/7.png"
+          },
+          "linescores": [
+            {
+              "period": 1,
+              "value": 1,
+              "displayValue": 1,
+              "wickets": 0,
+              "runs": 0,
+              "overs": 42.0,
+              "isBatting": false,
+              "description": "complete",
+              "isCurrent": 0
+            },
+            {
+              "period": 2,
+              "value": 2,
+              "displayValue": 2,
+              "wickets": 6,
+              "runs": 217,
+              "overs": 40.4,
+              "isBatting": true,
+              "description": "target reached",
+              "isCurrent": 1
+            }
+          ],
+          "leaders": {
+            "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/8535/events/65811/competitions/65811/competitors/7/leaders"
+          },
+          "statistics": [],
+          "records": [
+            {
+              "name": "Total",
+              "abbreviation": "Total",
+              "type": "total",
+              "summary": ""
+            }
+          ]
+        }
+      ],
+      "status": {
+        "clock": 0,
+        "displayClock": "0'",
+        "period": 0,
+        "featuredAthletes": [
+          {
+            "abbreviation": "POTM",
+            "athlete": {
+              "id": "36622",
+              "name": "Martin Crowe",
+              "shortName": "Crowe",
+              "fullName": "Martin David Crowe",
+              "displayName": "Martin Crowe",
+              "position": "MBT",
+              "headshot": "https://a.espncdn.com/i/headshots/cricket/players/full/36622.png",
+              "team": {
+                "id": "5"
+              },
+              "links": [
+                {
+                  "rel": [
+                    "playercard",
+                    "desktop"
+                  ],
+                  "href": "https://www.espncricinfo.com/ci/content/player/36622.html"
+                }
+              ]
+            },
+            "displayName": "Player Of The Match",
+            "linescores": {
+              "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/8535/events/65811/competitions/65811/competitors/5/roster/36622/linescores"
+            },
+            "name": "playerOfTheMatch",
+            "playerId": 36622,
+            "shortDisplayName": "POTM",
+            "team": {
+              "id": "5"
+            },
+            "statistics": []
+          },
+          {
+            "abbreviation": "POTS",
+            "athlete": {
+              "id": "40879",
+              "name": "Javed Miandad",
+              "shortName": "",
+              "fullName": "Mohammad Javed Miandad Khan",
+              "displayName": "Javed Miandad",
+              "position": "BT",
+              "headshot": "https://a.espncdn.com/i/headshots/cricket/players/full/40879.png",
+              "team": {
+                "id": "7"
+              },
+              "links": [
+                {
+                  "rel": [
+                    "playercard",
+                    "desktop"
+                  ],
+                  "href": "https://www.espncricinfo.com/ci/content/player/40879.html"
+                }
+              ]
+            },
+            "displayName": "Player Of The Series",
+            "linescores": {
+              "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/8535/events/65811/competitions/65811/competitors/7/roster/40879/linescores"
+            },
+            "name": "playerOfTheSeries",
+            "playerId": 40879,
+            "shortDisplayName": "POTS",
+            "team": {
+              "id": "7"
+            },
+            "statistics": []
+          }
+        ],
+        "summary": "Pakistan won by 4 wkts (8b rem)",
+        "type": {
+          "id": "1",
+          "description": "Result",
+          "detail": "Final",
+          "shortDetail": "Final",
+          "state": "post"
+        }
+      },
+      "broadcasts": [],
+      "notes": [],
+      "startDate": "1986-04-07T04:00Z",
+      "broadcast": "",
+      "geoBroadcasts": [],
+      "highlights": []
+    }
+  ],
+  "links": [
+    {
+      "language": "en",
+      "rel": [
+        "event",
+        "boxscore",
+        "scorecard",
+        "match",
+        "desktop"
+      ],
+      "href": "https://www.espn.in/cricket/series/8535/scorecard/65811/new-zealand-vs-pakistan-3rd-match-john-player-triangular-tournament-1985-86",
+      "text": "Scorecard",
+      "shortText": "Scorecard",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en",
+      "rel": [
+        "event",
+        "boxscore",
+        "match",
+        "live",
+        "summary",
+        "desktop"
+      ],
+      "href": "https://www.espn.in/cricket/series/8535/game/65811/new-zealand-vs-pakistan-3rd-match-john-player-triangular-tournament-1985-86",
+      "text": "Summary",
+      "shortText": "Summary",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en",
+      "rel": [
+        "event",
+        "league",
+        "serieshome",
+        "desktop"
+      ],
+      "href": "https://www.espn.in/cricket/series/_/id/8535/season/1986/john-player-triangular-tournament",
+      "text": "Series Home",
+      "shortText": "Series Home",
+      "isExternal": false,
+      "isPremium": false
+    }
+  ],
+  "status": {
+    "clock": 0,
+    "displayClock": "0'",
+    "period": 0,
+    "summary": "Pakistan won by 4 wkts (8b rem)",
+    "type": {
+      "id": "1",
+      "description": "Result",
+      "detail": "Final",
+      "shortDetail": "Final",
+      "state": "post"
+    }
+  }
+}

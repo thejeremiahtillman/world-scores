@@ -1,0 +1,13 @@
+{
+  "name": "world-scores",
+  "version": "0.1.0",
+  "description": "Plain-text, no-image live scoreboard for soccer/rugby/cricket leagues plaintextsports.com doesn't cover. Timezone-aware.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "serve": "python3 -m http.server 8000"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0"
+  }
+}
