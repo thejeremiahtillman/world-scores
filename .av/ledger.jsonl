@@ -1,0 +1,18 @@
+{"ts":"2026-09-09T23:21:05Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-09T23:21:05Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-09T23:21:05Z","session":"local","event":"verify","layer":"secrets","status":"pass","detail":"gitleaks"}
+{"ts":"2026-09-09T23:22:37Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-09T23:22:37Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-09T23:22:37Z","session":"local","event":"verify","layer":"secrets","status":"pass","detail":"gitleaks"}
+{"ts":"2026-09-09T23:22:37Z","session":"local","event":"verify","layer":"coverage","status":"unchecked","detail":"/Users/jaytillman/DEV/world-scores/android/gradle.properties"}
+{"ts":"2026-09-10T00:19:36Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-10T00:19:36Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-10T00:19:36Z","session":"local","event":"verify","layer":"secrets","status":"pass","detail":"gitleaks"}
+{"ts":"2026-09-10T00:20:12Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-10T00:20:12Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-10T00:20:12Z","session":"local","event":"verify","layer":"secrets","status":"pass","detail":"gitleaks"}
+{"ts":"2026-09-10T00:20:12Z","session":"local","event":"verify","layer":"coverage","status":"unchecked","detail":"/Users/jaytillman/DEV/world-scores/android/app/build.gradle"}
+{"ts":"2026-09-14T22:35:22Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-14T22:35:22Z","session":"local","event":"secrets","layer":"gitleaks","status":"pass","detail":"1 files"}
+{"ts":"2026-09-14T22:35:22Z","session":"local","event":"verify","layer":"secrets","status":"pass","detail":"gitleaks"}
+{"ts":"2026-09-14T22:35:22Z","session":"local","event":"verify","layer":"coverage","status":"unchecked","detail":"/Users/jaytillman/DEV/world-scores/android/app/src/main/java/com/world_scores/app/MainActivity.java"}

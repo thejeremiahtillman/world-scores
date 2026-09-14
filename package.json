@@ -5,9 +5,17 @@
   "type": "module",
   "scripts": {
     "test": "vitest run",
-    "serve": "python3 -m http.server 8000"
+    "serve": "python3 -m http.server 8000",
+    "build:web": "rm -rf www && mkdir www && cp index.html style.css www/ && cp -r src www/",
+    "cap:sync": "npm run build:web && npx cap sync"
   },
   "devDependencies": {
+    "@capacitor/cli": "^8.5.1",
     "vitest": "^2.1.0"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.1",
+    "@capacitor/core": "^8.5.1",
+    "@capacitor/ios": "^8.5.1"
   }
 }

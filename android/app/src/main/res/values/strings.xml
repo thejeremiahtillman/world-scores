@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">World Scores</string>
+    <string name="title_activity_main">World Scores</string>
+    <string name="package_name">com.world_scores.app</string>
+    <string name="custom_url_scheme">com.world_scores.app</string>
+</resources>
